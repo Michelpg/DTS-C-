@@ -1,0 +1,14 @@
+﻿  EspeceCultivee.cpp
+  Michel PENG DTS.cpp
+C:\Users\miche\OneDrive\Documents\BTS 2 annee\Informatique\C++\DTS\Michel PENG DTS\Michel PENG DTS.cpp(18,23): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'TraitementEnChamp'
+C:\Users\miche\OneDrive\Documents\BTS 2 annee\Informatique\C++\DTS\Michel PENG DTS\Michel PENG DTS.cpp(18,23): error C2064: le terme ne correspond pas à une fonction qui prend 1 arguments
+  Parcelle.cpp
+C:\Users\miche\OneDrive\Documents\BTS 2 annee\Informatique\C++\DTS\Michel PENG DTS\Parcelle.cpp(23,2): error C2561: 'Parcelle::ajouterUnTraitement' : la fonction doit retourner une valeur
+C:\Users\miche\OneDrive\Documents\BTS 2 annee\Informatique\C++\DTS\Michel PENG DTS\Parcelle.cpp(21): message : voir la déclaration de 'Parcelle::ajouterUnTraitement'
+  TraitementPhytosanitaire.cpp
+C:\Users\miche\OneDrive\Documents\BTS 2 annee\Informatique\C++\DTS\Michel PENG DTS\TraitementPhytosanitaire.cpp(17,2): error C2561: 'TraitementPhytosanitaire::quantiteAppliquee' : la fonction doit retourner une valeur
+C:\Users\miche\OneDrive\Documents\BTS 2 annee\Informatique\C++\DTS\Michel PENG DTS\TraitementPhytosanitaire.cpp(15): message : voir la déclaration de 'TraitementPhytosanitaire::quantiteAppliquee'
+  TraitementSemence.cpp
+C:\Users\miche\OneDrive\Documents\BTS 2 annee\Informatique\C++\DTS\Michel PENG DTS\TraitementSemence.cpp(19,2): error C2561: 'TraitementSemence::quantiteAppliquee' : la fonction doit retourner une valeur
+C:\Users\miche\OneDrive\Documents\BTS 2 annee\Informatique\C++\DTS\Michel PENG DTS\TraitementSemence.cpp(17): message : voir la déclaration de 'TraitementSemence::quantiteAppliquee'
+  Génération de code en cours...
